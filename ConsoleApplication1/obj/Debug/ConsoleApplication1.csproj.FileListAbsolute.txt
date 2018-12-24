@@ -1,0 +1,6 @@
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\svantieghem\documents\visual studio 2012\Projects\perimetre et rayon\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
