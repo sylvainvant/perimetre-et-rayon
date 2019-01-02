@@ -1,6 +1,7 @@
 # perimetre-et-rayon
 
-Réaliser en C#     
+Réaliser en C# 
+Programme permettant de calculer le périmetre et le rayon d'un cercle 
 perimetre-et-rayon/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe      
 Pour l'executer 
 perimetre-et-rayon/ConsoleApplication1/Program.cs     
